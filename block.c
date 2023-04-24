@@ -1,5 +1,5 @@
 /*
- * QEMU System Emulator block driver _teste
+ * QEMU System Emulator block driver
  *
  * Copyright (c) 2003 Fabrice Bellard
  * Copyright (c) 2020 Virtuozzo International GmbH.
